@@ -105,7 +105,7 @@ public class ConvertionActivity extends AppCompatActivity {
 
 
         //initialized spinnersecond
-        spinner2 = findViewById(R.id.spinnersecond);
+        spinner2 = (Spinner) findViewById(R.id.spinnersecond);
 
         //define ArrayAdapter2 for the Spinner and String Array defined (spinner_second)
         ArrayAdapter<String> arrayAdapter2 = new ArrayAdapter<String>(ConvertionActivity.this,
