@@ -8,7 +8,9 @@ Check the <a href="https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC,E
 # Screenshots
 <div align="center" markdown="1">
 <img src="https://github.com/habeex/CryptocurrencyConverter/blob/master/app/src/main/res/drawable/1.png" width="30%" height="50%"/>
+<img src="https://github.com/habeex/CryptocurrencyConverter/blob/master/app/src/main/res/drawable/2.png" width="30%" height="50%"/>
 <img src="https://github.com/habeex/CryptocurrencyConverter/blob/master/app/src/main/res/drawable/3.png" width="30%" height="50%"/>
+
 </div>
 <div align="center" markdown="1">
 <img src="https://github.com/habeex/CryptocurrencyConverter/blob/master/app/src/main/res/drawable/4.png" width="30%" height="50%"/>
